@@ -1,0 +1,154 @@
+{
+  "_id": {
+    "$oid": "59410b715cc3bd681b0dd15a"
+  },
+  "name": "Menuka Ishan",
+  "title": "Trainee Software Engineer",
+  "age": "26",
+  "school": "University of Colombo School of Computing",
+  "skill": [
+    "Java",
+    "Spring",
+    "C#"
+  ]
+}
+{
+  "_id": {
+    "$oid": "59410bfd5cc3bd681b0dd15b"
+  },
+  "name": "Difna Jayamaha",
+  "title": "Trainee Software Engineer",
+  "age": "26",
+  "school": "University of Peradeniya",
+  "skill": [
+    "Java",
+    "Spring",
+    "C#"
+  ]
+}
+{
+  "_id": {
+    "$oid": "59410c195cc3bd681b0dd15c"
+  },
+  "name": "Suranga",
+  "title": "DevOps Engineer",
+  "age": "26",
+  "school": "University of Colombo School of Computing",
+  "skill": [
+    "Linux",
+    "Bash",
+    "Networking"
+  ]
+}
+{
+  "_id": {
+    "$oid": "59410c715cc3bd681b0dd15d"
+  },
+  "name": "Pubudu Priyanath",
+  "title": "Software Engineer",
+  "age": "26",
+  "school": "University of Colombo",
+  "skill": [
+    "Java",
+    "Android"
+  ]
+}
+{
+  "_id": {
+    "$oid": "59410cd65cc3bd681b0dd15e"
+  },
+  "name": "Dhammika",
+  "title": "Software Engineer",
+  "age": "26",
+  "school": "University of Peradeniya",
+  "skill": [
+    "Java",
+    "C"
+  ]
+}
+{
+  "_id": {
+    "$oid": "59410cd75cc3bd681b0dd15f"
+  },
+  "name": "Harsha",
+  "title": "Software Engineer",
+  "age": "26",
+  "school": "University of Moratuwa",
+  "skill": [
+    "C",
+    "Embedded Systems"
+  ]
+}
+{
+  "_id": {
+    "$oid": "59410d2e5cc3bd681b0dd160"
+  },
+  "name": "Dilan",
+  "title": "Software Engineer",
+  "age": "26",
+  "school": "University of Moratuwa",
+  "skill": [
+    "C",
+    "Java",
+    "HTML"
+  ]
+}
+{
+  "_id": {
+    "$oid": "59410d2f5cc3bd681b0dd161"
+  },
+  "name": "Dulaj",
+  "title": "Software Engineer",
+  "age": "26",
+  "school": "University of Moratuwa",
+  "skill": [
+    "C",
+    "Java",
+    "PHP"
+  ]
+}
+{
+  "_id": {
+    "$oid": "59410d885cc3bd681b0dd162"
+  },
+  "name": "Ayesha",
+  "title": "Software Engineer",
+  "age": "26",
+  "school": "University of Colombo",
+  "skill": [
+    "C#",
+    "Java",
+    "python"
+  ],
+  "test": "test"
+}
+{
+  "_id": {
+    "$oid": "59410d895cc3bd681b0dd163"
+  },
+  "name": "Thamali",
+  "title": "Software Engineer",
+  "age": "26",
+  "school": "University of Moratuwa",
+  "skill": [
+    "C",
+    "Java",
+    "AWS"
+  ]
+}
+{
+  "_id": {
+    "$oid": "594117ba097516756306a170"
+  },
+  "test": "Test"
+}
+{
+  "_id": {
+    "$oid": "595f5dee15dbe03f489db6b8"
+  },
+  "_class": "com.hsenid.domains.Student",
+  "name": "Test",
+  "age": 26,
+  "grade": "13A",
+  "classRank": 13
+}
