@@ -17,5 +17,6 @@ First of all you need to setup the mongodb and up the server. After that Open th
 
 Then execute below command
    - mongoimport -d school -c student -o students.json
+   
 Now you have import the database into the mongodb
 After that build the jar file and run it
